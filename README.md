@@ -1,8 +1,8 @@
-# Giphy-Choo
+# GiphySearch-Choo
 
 Sample Choo app that searches Giphy. 
 
-To run, first get a  Giphy API key, see https://developers.giphy.com/docs/ and run with: GIPHY_KEY=<your-key> npm start
+To run, first get a  Giphy API key, see https://developers.giphy.com/docs/ and run with: `GIPHY_KEY=<your-key> npm start`
 
 ## Routes
 Route              | File               | Description                     |
